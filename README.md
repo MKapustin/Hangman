@@ -6,3 +6,5 @@ One player thinks of a word, phrase or sentence and the other(s) tries to guess 
 ![image](https://user-images.githubusercontent.com/42411498/111024398-ac88c900-83ef-11eb-8e89-6cc6ed56cb0d.png)
 ![image](https://user-images.githubusercontent.com/42411498/111024414-bf9b9900-83ef-11eb-8134-004906b66902.png)
 ![image](https://user-images.githubusercontent.com/42411498/111024429-d6da8680-83ef-11eb-9128-641ed98da701.png)
+![image](https://user-images.githubusercontent.com/42411498/111024461-f40f5500-83ef-11eb-9c50-c6360af17ef2.png)
+
